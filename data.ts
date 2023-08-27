@@ -9,7 +9,7 @@ export const portfolio = {
     img: profileImg,
     bio: `Hi, I'm Fenil! 
 
-I began my web development journey 8 years ago and for the last 2 have committed myself to learning web3 technologies.
+I began my web development journey 1 years ago and for the last 2 have committed myself to learning web3 technologies.
 
 I have considerable experience with solidity and rust and have developed dozens of smart contracts for ethereum/solana.
 
