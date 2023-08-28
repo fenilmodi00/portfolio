@@ -19,7 +19,7 @@ Through my career I have dabbled with several avenues of programming including s
 
 I was born in Mexico City and moved to the US when I was was 15. Because of this I am fluent in both Spanish and English.
 
-Shortly after moving to the US, I studied computer science at the Rochester Institiute of Technology where I graduated with a 3.95 GPA
+Shortly after moving to the US, I studied computer science at the U.V. Patel college of engineering where I graduated with a 7.34 CPA
 
 After school, I worked as a fullstack engineer at Target for 3 years where I primarily worked on supply chain API's and UI's. 
 
